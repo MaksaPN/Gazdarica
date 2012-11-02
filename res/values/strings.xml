@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Gazdarica</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_gazdarica">Gazdarica</string>
+    <string name="title_activity_map_result">MapResult</string>
+
+</resources>

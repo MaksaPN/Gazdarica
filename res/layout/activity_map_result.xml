@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.google.android.maps.MapView 
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:clickable="true"
+        android:apiKey="0QDDy4NOtUL-Cp1bkKg2AKMkS5y_Q6D_eTynyiA"
+        />
+    
+        <LinearLayout android:id="@+id/zoom" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_alignParentBottom="true" 
+        android:layout_centerHorizontal="true" 
+        /> 
+ 
+</RelativeLayout>
